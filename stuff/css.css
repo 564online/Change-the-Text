@@ -1,0 +1,41 @@
+/* Fonts */
+@font-face {
+font-family: 'Pinecone', sans-serif;
+   src: url('fonts/pinecone.ttf');
+}
+@font-face {
+font-family: 'Helmet', sans-serif;
+   src: url('fonts/helmet.ttf');
+}
+@font-face {
+font-family: 'Gravity', sans-serif;
+   src: url('fonts/Gravity-Regular.otf');
+}
+
+/* Styles */
+#title {
+  font-family: 'Pinecone', sans-serif;
+  font-weight:bold;
+  text-align: left;
+  font-size: 26px;
+}
+#story {
+  font-family: 'Pinecone', sans-serif;
+  font-weight:bold;
+  text-align: left;
+  font-size: 25px;
+}
+#author {
+  font-family: 'Helmet', sans-serif;
+  font-weight:bold;
+  text-align: right;
+  font-size: 20px;
+}
+#made-by {
+  font-family: 'Helmet', sans-serif;
+  font-weight:bold;
+  text-align: center;
+  font-size: 17px;
+}
+
+/* Thanks to Pinecone Arcade (Pinecone font creators), Carl Enlund (Helment font creator) and Vincenzo Vuono (Gravity font creator) */
