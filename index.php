@@ -3,11 +3,18 @@
 <link rel="stylesheet" type="text/css" href="stuff/css.css">
 <br></br>
 <br></br>
-<p id="story">     <?php include "title.txt" ?></p>
+<p id="title">     <?php include "Title.txt" ?></p>
 <p id="made-by"></p>
-<p id="story">     <?php include "story.txt" ?></p>
+<p id="story">     <?php include "Story.txt" ?></p>
 <br></br>
-<p id="author">by <?php include "author.txt" ?></p>
+<p id="author"> by <a href=" <?php include "Author Webpage.txt" ?> "><?php include "Author.txt" ?></a> </p>
 <br></br>
 <br></br>
-<p id="made-by"> Made in 2020 by <a href="https://gnerikuser.github.io">gnerikuser</a>. </p>
+<p id="copyright"> <a href=" <?php include "Publisher Webpage.txt" ?> "><?php include "Copyright.txt" ?></a> </p>
+<br></br>
+<br></br>
+<p id="made-by"> Change-the-Text is a creation made since 2020-2020 by <a href="https://gnerikuser.github.io">gnerikuser</a>. </p>
+
+<!-- Version 2 of Change-the-Text -->
+<!-- Created by gnerikuser in 2020 -->
+<!-- https://github.com/gnerikuser/Change-the-Text -->

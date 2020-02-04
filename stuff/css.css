@@ -17,19 +17,25 @@ font-family: 'Gravity', sans-serif;
   font-family: 'Pinecone', sans-serif;
   font-weight:bold;
   text-align: left;
-  font-size: 26px;
+  font-size: 37px;
 }
 #story {
-  font-family: 'Pinecone', sans-serif;
+  font-family: 'Gravity', sans-serif;
   font-weight:bold;
   text-align: left;
-  font-size: 25px;
+  font-size: 20px;
 }
 #author {
   font-family: 'Helmet', sans-serif;
   font-weight:bold;
   text-align: right;
-  font-size: 20px;
+  font-size: 22px;
+}
+#copyright {
+  font-family: 'Helmet', sans-serif;
+  font-weight:bold;
+  text-align: center;
+  font-size: 19px;
 }
 #made-by {
   font-family: 'Helmet', sans-serif;
