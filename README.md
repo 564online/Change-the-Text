@@ -5,4 +5,4 @@ Hello this is an example
 <br></br>
 OK
 ```
-#### Mirror: https://gitlab.com/gnerikuser/Change-the-Text
+#### Backups: https://gitlab.com/gnerikuser/Change-the-Text
