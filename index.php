@@ -17,4 +17,5 @@
 
 <!-- Version 2 of Change-the-Text -->
 <!-- Created by gnerikuser in 2020 -->
+<!-- Thanks to Pinecone Arcade (Pinecone font creators), Carl Enlund (Helment font creator) and Vincenzo Vuono (Gravity font creator) -->
 <!-- https://github.com/gnerikuser/Change-the-Text -->
