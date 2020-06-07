@@ -5,4 +5,5 @@ Hello this is an example
 <br></br>
 OK
 ```
-#### Backups: https://gitlab.com/lucasmtok/Change-the-Text
+#### Backup Coming soon @ GitLab
+#### [Live demo](http://demo.lucasmt.rf.gd/Change-the-Text/v2.0.1)
